@@ -161,8 +161,6 @@ class Manipulation:
         get_all_distance.sort()
         return get_all_distance[0]
 
-    def apply_kalman(self):
-        pass
 
 
 
